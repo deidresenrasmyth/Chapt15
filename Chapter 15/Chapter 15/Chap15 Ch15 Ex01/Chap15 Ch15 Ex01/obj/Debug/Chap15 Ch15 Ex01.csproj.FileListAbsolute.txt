@@ -1,0 +1,15 @@
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\MainWindow.g.cs
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\App.g.cs
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01_MarkupCompile.cache
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01_MarkupCompile.lref
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\bin\Debug\Chap15 Ch15 Ex01.exe.config
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\bin\Debug\Chap15 Ch15 Ex01.exe
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\bin\Debug\Chap15 Ch15 Ex01.pdb
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\MainWindow.baml
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.g.resources
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15_Ch15_Ex01.Properties.Resources.resources
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.csproj.GenerateResource.cache
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.exe
+C:\Deidre\Module 3\Chapter 15\Chapter 15\Chap15 Ch15 Ex01\Chap15 Ch15 Ex01\obj\Debug\Chap15 Ch15 Ex01.pdb
